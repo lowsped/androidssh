@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pemikir versi baru</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="mail">"Thank's To:\n" \n" " Allah S.W.T \n" "My   Family\n" "Google.inc\n" "And\n" "all you have been using my application\n"
+    \n" "Copyright@2017\n" "PEMIKIR VERSI BARU\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
